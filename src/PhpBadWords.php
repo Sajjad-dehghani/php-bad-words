@@ -117,5 +117,4 @@ class PhpBadWords {
   public function checkAlone() {
     return !!preg_match("/(\b)+(" . join("|", $this->dictionaryWords ) . ")+(\b)/iu", $this->text );
   }
-
 }
