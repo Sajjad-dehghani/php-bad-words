@@ -1,5 +1,5 @@
 
-## PHP Bad Words, Note This code work with PHP 5.4 and later.
+## PHP Bad Words, Note this code work with PHP 5.4 and later.
 
 PHP BAD WORDS is a PHP Package that return TRUE or FALSE when it finds a bad word in a text.
 
